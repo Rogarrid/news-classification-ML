@@ -1,0 +1,6 @@
+# Byte-compiled 
+__pycache__/
+
+# Models
+models/*.h5
+models/*.pkl
